@@ -1,8 +1,8 @@
-const version = '20200505115629';
+const version = '20200512162958';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/elements","/platforms/wordpress/example-post-15","/platforms/platform-5/example-post-14","/platforms/platform-4/example-post-13","/platforms/weebly/example-post-12","/platforms/squarespace/example-post-11","/platforms/wix/example-post-10","/industries/industry-5/example-post-eight","/industries/industry-4/example-post-seven","/industries/bars-restaurants/example-post-six","/industries/bars-restaurants/","/industries/industry-4/","/industries/industry-5/","/industries/plumbers/","/industries/real-estate/","/industries/","/platforms/platform-4/","/platforms/platform-5/","/platforms/squarespace/","/platforms/weebly/","/platforms/wix/","/platforms/wordpress/","/platforms/","/solutions/business-automation/","/solutions/income-diversity/","/solutions/sales-marketing/","/solutions/","/blog/","/","/manifest.json","/offline","/assets/search.json","/search","/assets/styles.css","/thanks","/redirects.json","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/blog/page6/","/blog/page7/","/blog/page8/","/blog/page9/","/assets/logos/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/industries/bars-restaurants/","/industries/industry-4/","/industries/industry-5/","/industries/plumbers/","/industries/real-estate/","/industries/","/platforms/platform-4/","/platforms/platform-5/","/platforms/squarespace/","/platforms/weebly/","/platforms/wix/","/platforms/wordpress/","/platforms/","/solutions/business-automation/","/solutions/income-diversity/","/solutions/sales-marketing/","/solutions/","/blog/","/","/manifest.json","/offline","/assets/search.json","/search","/assets/styles.css","/thanks","/redirects.json","/assets/logos/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
