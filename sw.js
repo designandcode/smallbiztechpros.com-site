@@ -1,8 +1,8 @@
-const version = '20200602194726';
+const version = '20200604141235';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/solutions/sales-marketing/marketing-analytics-tools-overview-spring-2020","/industries/bars-restaurants/","/industries/plumbers/","/industries/real-estate/","/industries/","/platforms/squarespace/","/platforms/weebly/","/platforms/wix/","/platforms/wordpress/","/platforms/","/solutions/business-automation/","/solutions/income-diversity/","/solutions/sales-marketing/","/solutions/","/","/manifest.json","/offline","/assets/search.json","/search","/assets/styles.css","/thanks","/redirects.json","/sitemap.xml","/robots.txt","/assets/logos/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/solutions/sales-marketing/seo-keyword-planning-tools-overview-spring-2020","/solutions/sales-marketing/marketing-analytics-tools-overview-spring-2020","/industries/bars-restaurants/","/industries/plumbers/","/industries/real-estate/","/industries/","/platforms/squarespace/","/platforms/weebly/","/platforms/wix/","/platforms/wordpress/","/platforms/","/solutions/business-automation/","/solutions/income-diversity/","/solutions/sales-marketing/","/solutions/","/","/manifest.json","/offline","/assets/search.json","/search","/assets/styles.css","/thanks","/redirects.json","/sitemap.xml","/robots.txt","/assets/logos/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
